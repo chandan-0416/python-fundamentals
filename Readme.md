@@ -23,3 +23,8 @@
 - Operators in Python
 - Type() Function and TypeCasting
 - Input
+
+#### Important Points:
+1. Multi line editing: alt+ move cursor on that position
+2. To replicate a line: alt+shift+down arrow key
+3. you can make Tab of output - drag it
