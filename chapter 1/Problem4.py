@@ -1,5 +1,4 @@
 import os
-
 # specify the directory path
 path = "/"   # change this to your directory
 

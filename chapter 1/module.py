@@ -1,12 +1,18 @@
 import pyjokes
 
-# print("printing jokes.....")
+# print("printing jokes.....") #comments
 joke = pyjokes.get_joke()
 print(joke)
 
 
+"""
+ncskcnsnc  // multi line comments
+ncjscjc
+jcbsjbcjb
+bcsbcbj
+""" 
 
-# ncskcnsnc
+# ncskcnsnc  // single line comments
 # ncjscjc
 # jcbsjbcjb
 # bcsbcbj
